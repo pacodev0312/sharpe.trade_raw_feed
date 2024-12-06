@@ -1,0 +1,1 @@
+docker build -t truedata-feed:0.1 .
